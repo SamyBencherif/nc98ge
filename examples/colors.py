@@ -23,6 +23,9 @@ class Game(nc98ge.Program):
     def update(self):
 
         self.clear()
+
+        self.print(3,3,"Use Left/Right Arrow Keys.")
+
         self.circ(self.w//2, self.h//2, self.x, BLUE)
 
         self.pix(0,0, BLACK)

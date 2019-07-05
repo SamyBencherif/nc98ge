@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: nc98ge
+Version: 0.1.0
+Summary: ##### ToDo: Rewrite me #####
+Home-page: https://www.github.com/SamyBencherif/nc98ge.git
+Author: bensa
+Author-email: samy@programmer.net
+License: UNKNOWN
+Description: ========
+         nc98ge
+        ========
+        
+        TODO: Rewrite me. Append your package's long description.
+        
+        
+        
+        Requirements
+        ============
+        
+        * Python 3.7 over
+        
+        Features
+        ========
+        
+        * ToDo: Rewrite me.
+        
+        Setup
+        =====
+        
+        ::
+        
+          $ python -m pip install --user nc98ge
+          or
+          (venv)$ python -m pip install nc98ge
+        
+        Usage
+        =====
+        
+        ToDo: Rewrite me.
+        
+        ::
+        
+          $ python
+          >>> import nc98ge
+          >>> nc98ge.sample.hello()
+          'hello'
+          >>>
+        
+        ChangeLog
+        =========
+        
+        0.1.0 (2019-07-05)
+        ------------------
+        
+        * Initial release.
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Provides-Extra: reST

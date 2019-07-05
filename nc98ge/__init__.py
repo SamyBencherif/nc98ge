@@ -177,6 +177,8 @@ def execute(program, fdlay=1):
 
     prg = program(stdscr)
 
+    prg.h, prg.w = prg.stdscr.getmaxyx()
+
     try:
         prg.begin()
     except Exception as ex:
